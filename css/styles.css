@@ -1,0 +1,19 @@
+#javascript {
+  display: none;
+}
+#C {
+  display: none;
+}
+#python {
+  display: none;
+}
+
+html {
+  background-color: #819497;
+}
+
+.jumbotron {
+  background-color: #819497;
+  border: 5px;
+
+}
